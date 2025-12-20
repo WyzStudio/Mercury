@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercury.Api", "Mercury.Api\Mercury.Api.csproj", "{563EA937-1DB2-46C7-AD3B-ACE538E43425}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercury.Api.Tests", "Mercury.Api.Tests\Mercury.Api.Tests.csproj", "{A27AE880-1733-4C84-B4EA-57411D33931A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mercury.Api", " Mercury.Api\Mercury.Api.csproj", "{CD05BEDB-A615-4CF5-BBF9-E75ED87EFE4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,13 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{563EA937-1DB2-46C7-AD3B-ACE538E43425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{563EA937-1DB2-46C7-AD3B-ACE538E43425}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{563EA937-1DB2-46C7-AD3B-ACE538E43425}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{563EA937-1DB2-46C7-AD3B-ACE538E43425}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A27AE880-1733-4C84-B4EA-57411D33931A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A27AE880-1733-4C84-B4EA-57411D33931A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A27AE880-1733-4C84-B4EA-57411D33931A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A27AE880-1733-4C84-B4EA-57411D33931A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD05BEDB-A615-4CF5-BBF9-E75ED87EFE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD05BEDB-A615-4CF5-BBF9-E75ED87EFE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD05BEDB-A615-4CF5-BBF9-E75ED87EFE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD05BEDB-A615-4CF5-BBF9-E75ED87EFE4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
